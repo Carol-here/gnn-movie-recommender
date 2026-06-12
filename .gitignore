@@ -15,10 +15,6 @@ ENV/
 
 .vscode/
 
-#Model files
-*.pt
-*.pkl
-
 # OS Files
 
 .DS_Store
