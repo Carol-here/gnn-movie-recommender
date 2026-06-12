@@ -1,0 +1,54 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+
+.vscode/
+
+#Model files
+*.pt
+*.pkl
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Dataset Files
+
+ml-100k/
+u.data
+u.item
+u.genre
+u.user
+u.info
+u.occupation
+
+# Streamlit Cache
+
+.streamlit/secrets.toml
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+
+*.tmp
+*.temp
